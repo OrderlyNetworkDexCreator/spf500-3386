@@ -19,7 +19,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Swap,Rewards",
-  "VITE_CUSTOM_MENUS": "",
+  "VITE_CUSTOM_MENUS": "Home, https://smartprofitable500.com/",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "true",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/SPF500Official",
@@ -35,7 +35,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_KEYWORDS": "SPF500, Smart and Profitable 500, Smart & Profitable, perp dex, decentralized exchange, crypto trading, pnl sharing, futures trading, Web3, profit trading, leveraged crypto, SPF500 token, green trading, profitable trading platform",
   "VITE_AVAILABLE_LANGUAGES": "en,zh,tc,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
-  "VITE_CUSTOM_PNL_POSTER_COUNT": "2",
+  "VITE_CUSTOM_PNL_POSTER_COUNT": "3",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
   "VITE_ANALYTICS_SCRIPT": ""
 };
